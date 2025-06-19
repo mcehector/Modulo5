@@ -1,0 +1,20 @@
+class message_class3 extends message_class2
+
+	static string message3 = "This is the default value"; //Class static property
+
+	//the new methodis the costructor of the class in SystemVerilog
+	// the constructor method is used to create an objectof this class type
+
+	function new();
+		super.new();
+		message3 = "This is the value assigned when an object of message_class3 type is created";
+	endfunction
+
+	//Method to print the message3 static member
+	//Satic method only can call other static members
+	static function void print_message3();
+		$display("%s", message);
+	endfunction
+
+
+endclass
