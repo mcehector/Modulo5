@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+the value of var1 is: 0, the value of var2 is: x, the value of var3 is: 0, the value of var4 is: x
+
+The values in post_randomize are:
+ var1: 0, var2: x, var3: 0, var4: x
+
+the values in post_randomize are:
+ var1: 1, var2: 1, var3: 0, var4: x
+
+the value of var1 is: 1, the value of var2 is: 1, the value of var3 is: 0, the value of var4 is: x
+
+$finish called at time : 0 fs : File "C:/Vivado/Lab7_Mod5/Lab7_Mod5_pre_post/Lab7_Mod5_pre_post.srcs/sources_1/new/pre_and_post_randomize_sv.sv" Line 76
