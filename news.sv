@@ -43,4 +43,4 @@ module tb;
 		printer_.print_message2();
 
 		//assign a new value to message member of printer_ object
-		
+		printer_.
