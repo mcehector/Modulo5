@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Iniciando pruebas del ElectronicLock...
+A = 1010 | Green LED = 0 | Red LED = 1
+A = 1110 | Green LED = 0 | Red LED = 1
+A = 0010 | Green LED = 0 | Red LED = 1
+A = 1011 | Green LED = 0 | Red LED = 1
+A = 1000 | Green LED = 0 | Red LED = 1
+A = 0000 | Green LED = 0 | Red LED = 1
+Pruebas finalizadas.
+$finish called at time : 30 ns : File "C:/Vivado/Mod5_ProyFinal/project_electronicLock/project_electronicLock.srcs/sim_1/new/testbench.sv" Line 55

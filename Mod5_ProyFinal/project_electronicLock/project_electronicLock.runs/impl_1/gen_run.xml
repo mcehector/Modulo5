@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xczu7ev-ffvc1156-2-e" LaunchTime="1751326730">
+  <File Type="REPORTS-TCL" Name="ElectronicLock_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="ElectronicLock_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="ElectronicLock.mmi"/>
+  <File Type="OPT-DRC" Name="ElectronicLock_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="ElectronicLock.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="ElectronicLock_route_status.pb"/>
+  <File Type="BG-BGN" Name="ElectronicLock.bgn"/>
+  <File Type="PLACE-UTIL" Name="ElectronicLock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ElectronicLock_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="ElectronicLock_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="ElectronicLock.bin"/>
+  <File Type="PLACE-CTRL" Name="ElectronicLock_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="ElectronicLock_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="ElectronicLock_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="ElectronicLock.msk"/>
+  <File Type="BITSTR-RBT" Name="ElectronicLock.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ElectronicLock_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ElectronicLock_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="ElectronicLock_route_status.rpt"/>
+  <File Type="PA-TCL" Name="ElectronicLock.tcl"/>
+  <File Type="ROUTE-PWR" Name="ElectronicLock_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="ElectronicLock_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="ElectronicLock_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="ElectronicLock_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="ElectronicLock.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ElectronicLock_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ElectronicLock_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ElectronicLock.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ElectronicLock_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="ElectronicLock_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="ElectronicLock.vdi"/>
+  <File Type="ROUTE-CLK" Name="ElectronicLock_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="ElectronicLock_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="ElectronicLock_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="ElectronicLock_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ElectronicLock_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ElectronicLock_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ElectronicLock_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ElectronicLock_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ElectronicLock_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="ElectronicLock.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ElectronicLock_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="ElectronicLock.nky"/>
+  <File Type="BITSTR-BMM" Name="ElectronicLock_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="ElectronicLock.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ElectronicLock_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ElectronicLock_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ElectronicLock_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="ElectronicLock_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="ElectronicLock_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="ElectronicLock_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="ElectronicLock_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ElectronicLock_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="ElectronicLock_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ElectronicLock_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ElectronicLock_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="ElectronicLock.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="ElectronicLock_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="ElectronicLock_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="ElectronicLock.rcfi"/>
+  <File Type="CFI_FILE" Name="ElectronicLock.cfi"/>
+  <File Type="RNPI_FILE" Name="ElectronicLock.rnpi"/>
+  <File Type="NPI_FILE" Name="ElectronicLock.npi"/>
+  <File Type="RBD_FILE" Name="ElectronicLock.rbd"/>
+  <File Type="ROUTE-RQS" Name="ElectronicLock_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="ElectronicLock_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ElectronicLock.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ElectronicLock"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
